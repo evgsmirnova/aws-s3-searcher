@@ -1,0 +1,6 @@
+{
+  "bucket_name":"bucket_name",
+  "prefix_name":"prefix_name",
+  "extension_name": "jpg",
+  "output_file": "result.txt"
+}
